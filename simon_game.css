@@ -1,0 +1,36 @@
+body{
+  background-color: #512D6D;
+  text-align: center;
+}
+h1{
+  font-style: italic;
+  font-family: "Lucida Console";
+  color: #FDE49C;
+  font-size: 6rem;
+}
+.container{
+  display: block;;
+  margin:auto;
+  width:50%;
+
+}
+.btn{
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+.yellow{
+  background-color: yellow;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.green{
+  background-color: green;
+}
